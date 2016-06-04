@@ -5,9 +5,9 @@
   "authors": [],
   "description": "jQuery Customized for Autocomplete",
   "main": [
-    "jquery-ui.min.js",
-    "jquery-ui.min.css",
-    "jquery-ui.structure.min.css"
+    "jquery-ui.js",
+    "jquery-ui.css",
+    "jquery-ui.structure.css"
   ],
   "keywords": []
 }
