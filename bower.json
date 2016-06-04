@@ -9,14 +9,5 @@
     "jquery-ui.min.css",
     "jquery-ui.structure.min.css"
   ],
-  "keywords": [
-    "angular",
-    "social",
-    "facebook",
-    "fb",
-    "google",
-    "phonegap",
-    "cordova"
-  ],
-  "license": "MIT"
+  "keywords": []
 }
