@@ -1,0 +1,22 @@
+{
+  "name": "jquery-autocomplete-customized",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jesselty/jquery-autocomplete-customized",
+  "authors": [],
+  "description": "jQuery Customized for Autocomplete",
+  "main": [
+    "jquery-ui.min.js",
+    "jquery-ui.min.css",
+    "jquery-ui.structure.min.css"
+  ],
+  "keywords": [
+    "angular",
+    "social",
+    "facebook",
+    "fb",
+    "google",
+    "phonegap",
+    "cordova"
+  ],
+  "license": "MIT"
+}
